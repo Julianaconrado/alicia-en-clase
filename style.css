@@ -1,0 +1,47 @@
+body{
+  background-image:linear-gradient(to bottom, #f51820, #4a0104)
+  }
+
+h1{
+  color:#f20a63;
+  font-size: 50px;
+font-family:Arial;
+  background-color:#faa7e9;
+  text-align: center;}
+img{
+  width: 300px; 
+  height:300px;}
+a{
+  color: green; 
+}
+
+a:visited{
+  color: black;
+}
+
+a:hover{color:red}
+a:active{color:purple}
+
+h4 {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+h3 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+h2 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+
+.parrafo-morado{
+  color: white;
+}
